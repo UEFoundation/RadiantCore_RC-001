@@ -1,0 +1,16 @@
+
+/RC-001-Field-Guide/
+├── main.tex                # LaTeX master source
+├── preamble.tex           # Styling & definitions
+├── sections/
+│   ├── 01-preface.md
+│   ├── 02-principles.md
+│   ├── 03-anatomy.md
+│   ├── 04-care-practice.md
+│   ├── 05-decoherence.md
+│   ├── 06-remediation.md
+│   ├── 07-long-game.md
+│   └── 08-appendix.md
+├── images/                # Diagrams & figures
+├── README.md              # Repo guide
+└── LICENSE.md             # Radiant Steward License (to draft)
